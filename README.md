@@ -7,3 +7,7 @@
     ps
     w
 An example of a command that doesn't work is: cd
+
+To run the program first run qmake "CommandGUI.pro".
+Then build using "make".
+Finally, run the program using "./CommandGUI".
